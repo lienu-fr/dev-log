@@ -7,7 +7,10 @@ Goal: becoming a back-end / full-stack software developer.
 This repository is where I track my technical progress publicly and consistently what I'm learning, my projects, my struggles.
 
 ## Target stack
-JavaScript / TypeScript — Node.js — React — PostgreSQL
+- JavaScript / TypeScript
+- Node.js
+- React
+- PostgreSQL
 
 ## Log
 
